@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1474607579 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio11\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1474656237 c:\users\omarm\dropbox\codeblocks proyects\ejercicio11\include\empleado.h
+
+1474656234 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio11\src\empleado.cpp
+	"Empleado.h"
+
